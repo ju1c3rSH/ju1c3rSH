@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ju1c3rSH
 - 👀 This is a default Readme template
 - 🌱 I’m noob (in Computer communication network)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m interesting in 絕對武力：全球行動 
 - 📫 How to reach me leonardkendall025@gmail.com ~~308room.ltd:88~~
 
 <!---
