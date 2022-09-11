@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ju1c3rSH
-- 👀 I’m interested in Wargame RASPBERRY Plus1s 
-- 🌱 I’m currently learning New centry school
+- 👀 This is a default Readme template
+- 🌱 I’m noob
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leonardkendall025@gmail.com 308room.ltd:88
 
