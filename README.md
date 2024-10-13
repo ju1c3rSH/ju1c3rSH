@@ -1,8 +1,9 @@
-- 👋  一眼顶针，鉴定为纯纯的网瘾哥
-- 👀 This is a default Readme template
-- 💞️ I’m interesting in 絕對武力：全球行動 👈这是个倒狗游戏
+- 👋 行我所思，思我所感，感我所行
+- 👀 我的头像很好看吗
+- 苟利国家生死以，岂因祸福避趋之
 
-- 📫 How to contact with me？ leonardkendall025@gmail.com or LongEP@308eob.xyz~~308room.ltd:88~~(注明来意)
+- 📫 How to contact with me？ leonardkendall025@gmail.com or 
+personal website US1.GENSOKYO.HOMES
 
 
   _                      _____ ____  
