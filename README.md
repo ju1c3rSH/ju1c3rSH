@@ -1,5 +1,5 @@
 
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;苟+利+国+家+生+死+以+岂+因+祸+福+避+趋+之&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;同+学+们+大+家+起+来+担+负+天+下+兴+亡+&center=true&size=27"> </a> </div>
 <h3 align="center">💻A  Full Stack Developer from Guangdong, China</h3>
 
 - 👋 行我所思，思我所感，感我所行
