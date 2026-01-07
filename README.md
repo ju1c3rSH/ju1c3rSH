@@ -4,5 +4,9 @@
 
 - 👋 行我所思，思我所感，感我所行
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ju1c3rSH&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju1c3rSH&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sky130)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+
+<!-- <a href="https://github.com/ju1c3rSH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ju1c3rSH&show_icons=true&include_all_commits=true" />
+</a> -->
