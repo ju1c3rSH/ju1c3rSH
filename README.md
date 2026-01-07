@@ -4,7 +4,7 @@
 
 - 👋 行我所思，思我所感，感我所行
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sky130)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ju1c3rSH)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
 <!-- <a href="https://github.com/ju1c3rSH">
