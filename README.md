@@ -32,7 +32,6 @@
 
 </div>
 
-平时折腾嵌入式、Android、STM32、Linux，也搞点边缘AI
 
 ---
 
